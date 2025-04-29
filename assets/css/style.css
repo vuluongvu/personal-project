@@ -27,19 +27,17 @@ body {
     background-color: white;
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-
 }
 
 .header {
     width: 100%;
     max-width: 390px;
     background-color: #FFF3CD;
-    height: 500px;
 }
 
 .header .nav .avt {
-    width: 22px;
-    height: 22px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -48,7 +46,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5px 10px 3px 10px;
+    padding: 10px 20px 6px 20px;
 }
 
 /*---main---*/
