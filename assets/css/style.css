@@ -34,6 +34,7 @@ body {
     width: 100%;
     max-width: 390px;
     background-color: #FFF3CD;
+    height: 50px;
 }
 
 .header .nav .avt {
